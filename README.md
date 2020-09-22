@@ -1,2 +1,5 @@
-# php_sdk
-A php SDK to help you integrate to payfluid
+# Payfluid SDKs
+There are three SDKs available:
+PHP SDK
+WooCommerce Plugin
+Java
